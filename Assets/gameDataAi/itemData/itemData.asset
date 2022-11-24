@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ad5a6a4863da942af8a34cb4e5657d, type: 3}
+  m_Name: itemData
+  m_EditorClassIdentifier: 
+  potionPosition: 0
+  potionName: h
+  mainPotionItemUI: {fileID: 1081658685467645023, guid: 1aff064b66e16474298395782ca626b0, type: 3}
+  potionItemUI: {fileID: 2559059644997425205, guid: 6797171e25b14324cb3a0af5f5f81377, type: 3}
+  potionItemObject: {fileID: 701205374853198662, guid: 80e2838fc0bb38e47878022e75c4ed50, type: 3}
+  potionImage: {fileID: 21300000, guid: 13c5863f3b0c82149951e188adff435e, type: 3}
+  manaAmount: 0
+  healthAmount: 100
+  manaCooltime: 0
+  healthCooltime: 0
+  perMana: 100
+  perHealth: 100
+  defaultEmptyImage: {fileID: 21300000, guid: cff7bfe44c16d6744947f01ebaae2ccd, type: 3}

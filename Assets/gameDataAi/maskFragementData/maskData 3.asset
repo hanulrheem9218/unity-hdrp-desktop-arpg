@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70a49f065b22cf7438953ff4a58fe70f, type: 3}
+  m_Name: maskData 3
+  m_EditorClassIdentifier: 
+  maskPosition: 3
+  maskName: d
+  mainMaskItemUI: {fileID: 2596942483727735508, guid: a0c06cd2854aae24eb9adcc28ed0025d, type: 3}
+  maskItemUI: {fileID: 4048280376139727959, guid: 6d1e5e3682c48b947bef8e3c482cab5e, type: 3}
+  maskItemObject: {fileID: 4182322348517555341, guid: bc909b88f66cf2848ae66976730b6a10, type: 3}
+  maskImage: {fileID: 21300000, guid: 3167440d15915aa40982900909994d87, type: 3}
+  maskDamage: 0
+  maskAbility: 
+  maskCoolTime: 3
+  defaultEmptyImage: {fileID: 21300000, guid: cff7bfe44c16d6744947f01ebaae2ccd, type: 3}
+  maskVFX: {fileID: 895604774782380494, guid: 1bc3a80ef98b05849ac284d6e793822a, type: 3}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23ae48e36863a64693cfe058485efb7, type: 3}
+  m_Name: AllyDataAI 1
+  m_EditorClassIdentifier: 
+  DATA_objectName: Knight
+  DATA_LOCALNAME: Knight1
+  DATA_playerDetectionRange: 2.82
+  DATA_AIenemyDetectionRange: 1.73
+  DATA_enemyHealth: 1000
+  DATA_coreDetectionRangeAI: 5
+  DATA_coreMeleeRangeAI: 0
+  DATA_coreShootRangeAI: 1.5
+  DATA_coreTurnSpeedAI: 3
+  DATA_coreMoveSpeedAI: 1
+  DATA_enemyAttackTime: 0.2
+  DATA_playerMask:
+    serializedVersion: 2
+    m_Bits: 0
+  DATA_AIenemyMask:
+    serializedVersion: 2
+    m_Bits: 0
+  DATA_audioSource: {fileID: 0}
+  DATA_enemyAnimator: {fileID: 0}
+  DATA_bckRadius: 5
+  Data_damageStatusObject: {fileID: 4478379645963906006, guid: 0ac6114a846600b49ad6bf31bd187d8f, type: 3}
